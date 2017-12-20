@@ -1,0 +1,10 @@
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\bin\Debug\netcoreapp2.0\ordenamiento.deps.json
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\bin\Debug\netcoreapp2.0\ordenamiento.runtimeconfig.json
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\bin\Debug\netcoreapp2.0\ordenamiento.runtimeconfig.dev.json
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\bin\Debug\netcoreapp2.0\ordenamiento.dll
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\bin\Debug\netcoreapp2.0\ordenamiento.pdb
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\obj\Debug\netcoreapp2.0\ordenamiento.csproj.CoreCompileInputs.cache
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\obj\Debug\netcoreapp2.0\ordenamiento.AssemblyInfoInputs.cache
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\obj\Debug\netcoreapp2.0\ordenamiento.AssemblyInfo.cs
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\obj\Debug\netcoreapp2.0\ordenamiento.dll
+C:\Users\Wendy Soto\Documents\Albi\SEXTO\ingenieria\ordenamiento\obj\Debug\netcoreapp2.0\ordenamiento.pdb
