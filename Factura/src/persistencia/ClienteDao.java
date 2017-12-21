@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Gabo
+
  */
 public class ClienteDao implements Crudable<Cliente>{
 

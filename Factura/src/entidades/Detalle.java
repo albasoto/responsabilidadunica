@@ -6,8 +6,7 @@
 package entidades;
 
 /**
- *
- * @author Gabo
+
  */
 public class Detalle {
     private int id;

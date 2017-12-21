@@ -9,7 +9,6 @@ import java.sql.*;
 
 /**
  *
- * @author Gabo
  */
 public class Conexion {
     private static Connection cnx = null;

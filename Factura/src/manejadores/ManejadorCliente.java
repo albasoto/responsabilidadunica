@@ -12,7 +12,7 @@ import persistencia.ClienteDao;
 
 /**
  *
- * @author Gabo
+
  */
 public class ManejadorCliente implements Crudable<Cliente> {
 

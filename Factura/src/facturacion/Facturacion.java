@@ -17,7 +17,7 @@ import vista.index;
 
 /**
  *
- * @author Gabo
+
  */
 public class Facturacion {
 

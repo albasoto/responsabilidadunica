@@ -12,7 +12,7 @@ import persistencia.ProductoDao;
 
 /**
  *
- * @author Gabo
+
  */
 public class ManejadorProducto implements Crudable<Producto> {
 

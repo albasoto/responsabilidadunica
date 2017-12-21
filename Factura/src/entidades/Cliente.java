@@ -7,7 +7,7 @@ package entidades;
 
 /**
  *
- * @author Gabo
+
  */
 public class Cliente {
     int id;

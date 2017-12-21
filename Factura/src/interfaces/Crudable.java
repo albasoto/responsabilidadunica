@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author Gabo
+
  * @param <T>
  */
 public interface Crudable<T> {

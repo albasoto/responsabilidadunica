@@ -9,7 +9,7 @@ import entidades.Cliente;
 
 /**
  *
- * @author Gabo
+ 
  */
 public class index extends javax.swing.JFrame {
 

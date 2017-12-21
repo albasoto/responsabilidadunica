@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Gabo
+
  */
 public class FacturaDao implements Crudable<Factura>{
 

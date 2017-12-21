@@ -12,7 +12,7 @@ import persistencia.FacturaDao;
 
 /**
  *
- * @author Gabo
+ 
  */
 public class ManejadorFactura implements Crudable<Factura>{
 

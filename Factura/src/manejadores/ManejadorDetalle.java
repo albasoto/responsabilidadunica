@@ -12,7 +12,7 @@ import persistencia.DetalleDao;
 
 /**
  *
- * @author Gabo
+
  */
 public class ManejadorDetalle implements Crudable<Detalle> {
 
